@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [ITS ALIVE!](#)
+- Live Site URL: [ITS ALIVE!](https://manuelrtz.github.io/order-summary-card/)
 
 ## My process
 
